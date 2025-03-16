@@ -4,12 +4,14 @@ A full-stack platform built with **Django (Backend)** and **React (Frontend)** t
 
 ## 🚀 Features
 
-✅ User Authentication with JWT (Register/Login)
-✅ Mark Logging for Each Subject
-✅ Internal Marks Prediction
-✅ SGPA Calculator Based on Credits
-✅ Goal-Oriented End Sem Score Prediction
-✅ Attendance Tracking (via `akgconnect` Integration)
+ ## Features
+
+- **✅Student Profiles**: Create and manage student profiles.
+- **✅Sessional Marks Log**: Log marks scored in sessional tests.
+- **✅Internal Marks Prediction**: Predict internal marks based on sessional performance.
+- **✅SGPA Calculator**: Calculate current SGPA and predict the required end-semester marks to achieve a target SGPA.
+- **✅Attendance Tracker**: (Future) Integrate with (AKGConnect) system to track attendance.
+
 
 ---
 
