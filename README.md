@@ -115,10 +115,10 @@ npm run dev
 
 ## ✨ Contributing
 
-1️⃣ Fork the Repo 🍴
-2️⃣ Create a Feature Branch 🌱
-3️⃣ Commit Changes ✅
-4️⃣ Open a Pull Request 🔥
+- 1️⃣ Fork the Repo 🍴
+- 2️⃣ Create a Feature Branch 🌱
+- 3️⃣ Commit Changes ✅
+- 4️⃣ Open a Pull Request 🔥
 
 ---
 
